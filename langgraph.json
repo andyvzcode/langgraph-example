@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graph": {
+        "andyBot": "./app/agent.py:graph"
+    },
+    "python_version": "3.11"
+}

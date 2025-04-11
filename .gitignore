@@ -166,6 +166,8 @@ env.bak/
 venv.bak/
 .env.example
 
+.langgraph_api
+poetry.lock
 # Spyder project settings
 .spyderproject
 .spyproject

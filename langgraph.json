@@ -2,8 +2,10 @@
     "dependencies": [
         "."
     ],
-    "graph": {
-        "andyBot": "./app/agent.py:graph"
+    "graphs": {
+        "andyBot": "./app/agent.py:graph",
+        "llm": "./app/llm.py:graph"
     },
-    "python_version": "3.11"
+    "python_version": "3.11",
+    "env": ".env"
 }

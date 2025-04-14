@@ -13,6 +13,7 @@ python-dotenv = ">=1.1.0,<2.0.0"
 langgraph-cli = {extras = ["inmem"], version = ">=0.2.3,<0.3.0"}
 fastapi = ">=0.115.12,<0.116.0"
 uvicorn = ">=0.27.1,<0.28.0"
+langchain-google-genai = "^2.1.2"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
